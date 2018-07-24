@@ -4,6 +4,6 @@
 ## 游戏的主界面
 ![image](https://github.com/li-zheng-hao/Snake/raw/master/DisplayGIF/游戏功能.gif)</br>
 ## 商店的皮肤
-[image](https://github.com/li-zheng-hao/Snake/raw/master/DisplayGIF/皮肤功能.gif)</br>
+![image](https://github.com/li-zheng-hao/Snake/raw/master/DisplayGIF/皮肤功能.gif)</br>
 ## 游戏规则的介绍
-[image](https://github.com/li-zheng-hao/Snake/raw/master/DisplayGIF/规则功能.gif)</br>
+![image](https://github.com/li-zheng-hao/Snake/raw/master/DisplayGIF/规则功能.gif)</br>
